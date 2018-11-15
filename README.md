@@ -1,6 +1,6 @@
 # SQL and LINQ comparison
 
-[SQL and LINQ comparison](https://github.com/Vladimir-Novick/SQL-LINQ/wiki) breef reference and SQL and LINQ comparison
+[SQL and LINQ comparison](https://github.com/Vladimir-Novick/SQL-LINQ/wiki) brief SQL and LINQ comparison
 
 [SQL PL/SQL, SQL*Plus Reference ](https://github.com/Vladimir-Novick/SQL-LINQ/blob/master/oracle_ref.pdf) - reference manual in Russian ( Oracle 8i )
 
