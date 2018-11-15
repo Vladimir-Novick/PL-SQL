@@ -2,7 +2,7 @@
 
 [SQL and LINQ comparison](https://github.com/Vladimir-Novick/SQL-LINQ/wiki) brief SQL and LINQ comparison
 
-[SQL PL/SQL, SQL*Plus Reference ](https://github.com/Vladimir-Novick/SQL-LINQ/blob/master/oracle_ref.pdf) - reference manual in Russian ( Oracle 8i )
+[SQL PL/SQL, SQL*Plus Reference ](https://github.com/Vladimir-Novick/SQL-LINQ/blob/master/oracle_ref.pdf) - Russian Book 
 
 [SQL](https://www.w3schools.com/sql/default.asp) is a standard language for storing, manipulating and retrieving data in databases.
 
