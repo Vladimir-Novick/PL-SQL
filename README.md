@@ -1,4 +1,4 @@
-SQL and LINQ comparison
+# SQL and LINQ comparison
 
 [PL/SQL Reference ](https://github.com/Vladimir-Novick/SQL-LINQ/blob/master/oracle_ref.pdf) 
 
