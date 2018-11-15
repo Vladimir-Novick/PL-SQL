@@ -1,3 +1,3 @@
 # SQL and LINQ comparison 
  
- [SQL](https://www.w3schools.com/sql/default.asp)
+ [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
