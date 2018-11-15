@@ -1,6 +1,6 @@
 SQL and LINQ comparison
 
-[PL/SQL Reference ( Russian book )](https://www.w3schools.com/sql/default.asp) 
+[PL/SQL Reference ](https://github.com/Vladimir-Novick/SQL-LINQ/blob/master/oracle_ref.pdf) 
 
 [SQL](https://www.w3schools.com/sql/default.asp) is a standard language for storing, manipulating and retrieving data in databases.
 
